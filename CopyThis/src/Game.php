@@ -3,7 +3,7 @@
 namespace Kata;
 
 
-class BowlingGame
+class Game
 {
 
 }
