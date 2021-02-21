@@ -9,7 +9,6 @@ class Game
 
     public function roll(int $pins): void
     {
-      $this->score += $pins;
       $this->rolls[$this->currentRole++] = $pins;
     }
 
