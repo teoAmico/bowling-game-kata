@@ -1,11 +1,11 @@
 {
-  "name": "swkberlin/php",
-  "description": "Shell project for PHP testing",
+  "name": "bowling-game-kata",
+  "description": "TDD",
   "license": "MIT",
   "authors": [
     {
-      "name": "Damijan Cavar",
-      "email": "damijanc@gmail.com"
+      "name": "teoamico",
+      "email": ""
     }
   ],
   "require": {
